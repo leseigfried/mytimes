@@ -1,5 +1,6 @@
 html {
-
+  font-family: Verdana;
+  font-size: 14px;
 }
 body {
 
@@ -13,10 +14,14 @@ header {
 .logo {
   display: fixed;
   color: MediumAquamarine;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
 }
 nav {
   display: fixed;
 }
 nav .li {
   display: inline-block;
+  align-items: flex-end;
 }
