@@ -1,0 +1,22 @@
+html {
+
+}
+body {
+
+}
+header {
+  display: flex;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+}
+.logo {
+  display: fixed;
+  color: MediumAquamarine;
+}
+nav {
+  display: fixed;
+}
+nav .li {
+  display: inline-block;
+}
